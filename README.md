@@ -12,9 +12,7 @@ This project can be customized to predict house prices in your metro area if you
 * Improve the accuracy of the model
 * Run diagnostics to figure out how we can improve
 
-## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/house_prices)
 
 File overview:
 
