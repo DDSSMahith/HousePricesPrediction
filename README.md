@@ -13,7 +13,6 @@ This project can be customized to predict house prices in your metro area if you
 * Run diagnostics to figure out how we can improve
 
 
-
 File overview:
 
 * `prices.ipynb` - a Jupyter notebook that contains all of the code.
