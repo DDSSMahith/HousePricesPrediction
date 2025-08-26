@@ -31,6 +31,7 @@ To follow this project, please install the following locally:
     * yfinance
     * scikit-learn
 
+
 ## Data
 
 You'll need to download a few csv files to run this project.  These files are included in this repo.  You can also download them all [here](https://drive.google.com/uc?export=download&id=1HlHw_JyRckfPOlwwxUHS-sdDqfZQ732p).
