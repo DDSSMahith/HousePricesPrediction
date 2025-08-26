@@ -6,6 +6,7 @@ This project can be customized to predict house prices in your metro area if you
 
 **Project Steps**
 
+
 * Load in the data
 * Clean and merge data
 * Create an initial machine learning model and estimate accuracy
